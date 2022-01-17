@@ -1,1 +1,1 @@
-IT Foundation Practice Assignments [ Dec - 2021 ] - Tech Mahindra
+Tech Mahindra IT Foundation Practice Assignments [ Dec - 2021 ]
